@@ -1,0 +1,46 @@
+{
+  "name": "seller-fees-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for Gumroad, Stripe, PayPal and Etsy seller fees, payouts and break-even prices. Runs locally, no API key, no network.",
+  "type": "module",
+  "bin": {
+    "seller-fees-mcp": "src/server.js"
+  },
+  "main": "src/tools.js",
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test test/"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "gumroad",
+    "stripe",
+    "paypal",
+    "etsy",
+    "fees",
+    "calculator"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.1",
+    "zod": "^3.25.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NarwhalThePong/seller-fees-mcp.git"
+  },
+  "homepage": "https://github.com/NarwhalThePong/seller-fees-mcp#readme",
+  "bugs": {
+    "url": "https://github.com/NarwhalThePong/seller-fees-mcp/issues"
+  },
+  "author": "Pau Drudis"
+}
