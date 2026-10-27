@@ -73,3 +73,5 @@ For a local checkout, use `"command": "node", "args": ["/path/to/seller-fees-mcp
 ## License
 
 MIT
+
+<!-- mcp-name: io.github.NarwhalThePong/seller-fees-mcp -->

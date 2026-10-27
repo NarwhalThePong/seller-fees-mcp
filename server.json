@@ -1,0 +1,21 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.NarwhalThePong/seller-fees-mcp",
+  "title": "Seller Fees Calculator",
+  "description": "Gumroad, Stripe, PayPal and Etsy seller fees, payouts and break-even prices. Local, no API key.",
+  "repository": {
+    "url": "https://github.com/NarwhalThePong/seller-fees-mcp",
+    "source": "github"
+  },
+  "version": "1.0.1",
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "seller-fees-mcp",
+      "version": "1.0.1",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}
