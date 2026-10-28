@@ -70,6 +70,10 @@ For a local checkout, use `"command": "node", "args": ["/path/to/seller-fees-mcp
 
 **Disclosure:** these are our own products. The calculator pages are free; Creator Payout Calculator Pro is a paid product we sell.
 
+## Prefer a spreadsheet?
+
+[Seller Fee Formulas for Google Sheets](https://payhip.com/b/6tHXR), $9: custom functions such as `GUMROADFEE`, `STRIPEFEE`, `PAYPALFEE` and `ETSYFEE`, plus price solvers for the price you need to keep a target amount, on a whole column at once. Our own paid product (the MCP server stays free).
+
 ## License
 
 MIT
