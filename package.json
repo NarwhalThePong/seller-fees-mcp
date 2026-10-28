@@ -1,6 +1,6 @@
 {
   "name": "seller-fees-mcp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "mcpName": "io.github.NarwhalThePong/seller-fees-mcp",
   "description": "MCP server for Gumroad, Stripe, PayPal and Etsy seller fees, payouts and break-even prices. Runs locally, no API key, no network.",
   "type": "module",
